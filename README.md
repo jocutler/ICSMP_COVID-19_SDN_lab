@@ -1,4 +1,4 @@
-# [SDN Lab](https://www.sdn-lab.org/) analysis of [ICSMP COVID-19](https://icsmp-covid19.netlify.app/) data
+# [SDN Lab](https://github.com/SDN-lab) analysis of [ICSMP COVID-19](https://icsmp-covid19.netlify.app/) data
 
 This repository contains analysis resources for analysis of the [International Collaboration on the Social & Moral Psychology of COVID-19](https://icsmp-covid19.netlify.app/) developed by the [SDN Lab](https://www.sdn-lab.org/).
 
