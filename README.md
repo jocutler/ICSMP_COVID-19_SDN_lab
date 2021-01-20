@@ -12,7 +12,7 @@ We used the following for transforming the data from the main shared file to the
 1. Raw_data/Date_formats.csv (index of different date formats used in each country to help create common format)
 1. Raw_data/Country_measures/Covid_data.xlsx (data for COVID-19 severity measures from [Our World in Data](https://ourworldindata.org/coronavirus))
 1. Raw_data/Country_measures/GNI_World_Bank/GNI.xlsx (country wealth data from the World Bank)
-1. Raw_data/Country_measures/Life_expectancy.xlsx (life expectancy info from [Worldometers](Worldometers.info)
+1. Raw_data/Country_measures/Life_expectancy.xlsx (life expectancy info from [Worldometers](Worldometers.info))
 1. Raw_data/Country_measures/List_countries.xlsx (names and codes for each country)
 1. Raw_data/covid_randomrowsa_country_data.xlsx (10% dataset from ICSMP for pilot analysis saved csv as xlsx, note not yet available)
 
